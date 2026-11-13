@@ -1,0 +1,24 @@
+{
+  "source": "D7 delivered experimental CSVs; hashes recorded in manifest.csv",
+  "utilprop_l1_loss_abs_change": {
+    "selection": "mechanism=UtilProp, n=100, m=10, epsilon=0.10",
+    "observations": 400,
+    "cultures": 8,
+    "repetitions_per_culture": 50,
+    "mean": 0.03167117093389139,
+    "rounded_in_thesis": 0.031671
+  },
+  "historical_value_0_04097": {
+    "status": "unattributed historical claim",
+    "reason": "No matched raw observations, seed, and version log were supplied for this historical aggregate.",
+    "is_causal_explanation_justified": false
+  },
+  "n_growth_interval_recalculation": {
+    "rows": 720,
+    "max_absolute_difference": {
+      "mean": 1.1102230246251565e-16,
+      "ci_low": 1.1102230246251565e-16,
+      "ci_high": 2.220446049250313e-16
+    }
+  }
+}

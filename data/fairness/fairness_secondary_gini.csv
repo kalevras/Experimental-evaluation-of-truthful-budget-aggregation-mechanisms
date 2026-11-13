@@ -1,0 +1,49 @@
+culture,n,m,mechanism,utility_gini
+balanced,100,3,Independent Markets,0.03701649022479097
+balanced,100,3,Ladder,0.03703930711220113
+balanced,100,3,Mean Rule,0.0366439082716007
+balanced,100,3,Piecewise Uniform,0.037035426078723545
+balanced,100,3,Util,0.03707246805692384
+balanced,100,3,UtilProp,0.03707246805692384
+concentrated,100,3,Independent Markets,0.16753177776570777
+concentrated,100,3,Ladder,0.16807951095356422
+concentrated,100,3,Mean Rule,0.16685624491811113
+concentrated,100,3,Piecewise Uniform,0.16753816913206612
+concentrated,100,3,Util,0.1797065620768441
+concentrated,100,3,UtilProp,0.17448758033548914
+majority_minority,100,3,Independent Markets,0.1448275862068964
+majority_minority,100,3,Ladder,0.14482758621416392
+majority_minority,100,3,Mean Rule,0.1448275862068964
+majority_minority,100,3,Piecewise Uniform,0.14482758621561725
+majority_minority,100,3,Util,0.30000000000000004
+majority_minority,100,3,UtilProp,0.1448275862068964
+mixed,100,3,Independent Markets,0.21667886376387135
+mixed,100,3,Ladder,0.21710486391072284
+mixed,100,3,Mean Rule,0.21676420556871165
+mixed,100,3,Piecewise Uniform,0.21667886376396478
+mixed,100,3,Util,0.22230940869453936
+mixed,100,3,UtilProp,0.22082300602040672
+polarized,100,3,Independent Markets,0.03830121233452191
+polarized,100,3,Ladder,0.03830121233671569
+polarized,100,3,Mean Rule,0.03830121233452191
+polarized,100,3,Piecewise Uniform,0.0383012123369367
+polarized,100,3,Util,0.4204
+polarized,100,3,UtilProp,0.03830121233452191
+random,100,3,Independent Markets,0.10528829576163719
+random,100,3,Ladder,0.10542686498594814
+random,100,3,Mean Rule,0.10444602280882057
+random,100,3,Piecewise Uniform,0.10529302780312719
+random,100,3,Util,0.10649107791121634
+random,100,3,UtilProp,0.10649107791121634
+single_minded,100,3,Independent Markets,0.061304925248996806
+single_minded,100,3,Ladder,0.061304925254203065
+single_minded,100,3,Mean Rule,0.061304925248996806
+single_minded,100,3,Piecewise Uniform,0.061304925248996806
+single_minded,100,3,Util,0.5903999999970432
+single_minded,100,3,UtilProp,0.06130492524899681
+sparse,100,3,Independent Markets,0.10447677321591019
+sparse,100,3,Ladder,0.10457826925507856
+sparse,100,3,Mean Rule,0.10395065175447943
+sparse,100,3,Piecewise Uniform,0.10448237660430791
+sparse,100,3,Util,0.10577705558611708
+sparse,100,3,UtilProp,0.10575797682902018

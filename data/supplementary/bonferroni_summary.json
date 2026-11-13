@@ -1,0 +1,28 @@
+[
+  {
+    "file": "bonferroni_fairness_R50.csv",
+    "rows": 720,
+    "cultures": 8,
+    "metrics": 6,
+    "R": 50,
+    "decisions": {
+      "+": 220,
+      "-": 264,
+      "=": 236
+    },
+    "t_critical": 3.085945060603831
+  },
+  {
+    "file": "bonferroni_robustness_eps_010_R50.csv",
+    "rows": 600,
+    "cultures": 8,
+    "metrics": 5,
+    "R": 50,
+    "decisions": {
+      "+": 149,
+      "-": 230,
+      "=": 221
+    },
+    "t_critical": 3.085945060603831
+  }
+]

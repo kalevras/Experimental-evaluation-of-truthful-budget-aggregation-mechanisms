@@ -1,0 +1,4 @@
+check,max_error,passed
+avg_utility == social_welfare / n,0.0,True
+mechanism rows per profile,0.0,True
+allocation validity error,6.661338147750939e-16,True

@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-26",
+  "status": "full requested 20x3000 grid completed",
+  "n": [
+    4,
+    6,
+    10,
+    20,
+    50,
+    100,
+    1000
+  ],
+  "m": [
+    3,
+    4
+  ],
+  "mechanisms": [
+    "im",
+    "ladder",
+    "utilprop",
+    "piecewise"
+  ],
+  "K": {
+    "n_lt_100": [
+      2,
+      3,
+      4
+    ],
+    "n_ge_100": [
+      2,
+      3,
+      4,
+      6
+    ]
+  },
+  "restarts_per_combination": 20,
+  "steps_per_restart": 3000,
+  "grid_q": 120,
+  "runs": 3680,
+  "proposed_profile_evaluations": 11040000,
+  "independent_d5_witness_checks": 56,
+  "max_verified_abs_loss_error": 4.850642110199033e-11,
+  "raw": "full_restarts.csv",
+  "best": "best_profiles_verified.csv",
+  "code": "full_search.py",
+  "warning": "Empirical lower bounds only; no global maxima or worst-case upper bounds proved.",
+  "refinement_q240": "56 best witnesses, 3000 additional steps each",
+  "q240_file": "q240_refinement.csv",
+  "additional_q240_candidate_evaluations": 168000,
+  "exact_rational_validation": "not performed"
+}

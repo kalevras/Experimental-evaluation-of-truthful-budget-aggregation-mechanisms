@@ -1,0 +1,49 @@
+culture,mechanism,l1_loss
+balanced,Independent Markets,0.02468719346247522
+balanced,Ladder,0.026818453357645808
+balanced,Mean Rule,0.0
+balanced,Piecewise Uniform,0.024953331794736328
+balanced,Util,0.02738002635353295
+balanced,UtilProp,0.02738002635353295
+concentrated,Independent Markets,0.11985649656321147
+concentrated,Ladder,0.12730201444588266
+concentrated,Mean Rule,0.0
+concentrated,Piecewise Uniform,0.11955793562884501
+concentrated,Util,0.1805271754453627
+concentrated,UtilProp,0.1664402913429967
+majority_minority,Independent Markets,0.0
+majority_minority,Ladder,2.3748703004145e-11
+majority_minority,Mean Rule,0.0
+majority_minority,Piecewise Uniform,2.8088720238628186e-11
+majority_minority,Util,0.5920000000000001
+majority_minority,UtilProp,0.0
+mixed,Independent Markets,0.26726032230978986
+mixed,Ladder,0.25041323826601136
+mixed,Mean Rule,0.0
+mixed,Piecewise Uniform,0.26703894971386455
+mixed,Util,0.2662748877330878
+mixed,UtilProp,0.2569074028011685
+polarized,Independent Markets,0.0
+polarized,Ladder,7.9401759241667e-12
+polarized,Mean Rule,0.0
+polarized,Piecewise Uniform,1.0601936513883932e-11
+polarized,Util,0.7715893333333333
+polarized,UtilProp,0.0
+random,Independent Markets,0.06809597905446091
+random,Ladder,0.07175761505860408
+random,Mean Rule,0.0
+random,Piecewise Uniform,0.0677657104231034
+random,Util,0.07920587362187398
+random,UtilProp,0.07883648732088863
+single_minded,Independent Markets,0.0
+single_minded,Ladder,2.005137690261338e-11
+single_minded,Mean Rule,0.0
+single_minded,Piecewise Uniform,1.6318849512438522e-13
+single_minded,Util,1.4215359999901716
+single_minded,UtilProp,2.644181170315581e-17
+sparse,Independent Markets,0.1530098244843764
+sparse,Ladder,0.22857840728746825
+sparse,Mean Rule,0.0
+sparse,Piecewise Uniform,0.15277308558552172
+sparse,Util,0.5360314425186565
+sparse,UtilProp,0.46951608275463264

@@ -1,0 +1,33 @@
+metric,culture,equal_pairs
+min_utility,random,Util/UtilProp
+min_utility,balanced,Util/UtilProp
+min_utility,concentrated,Independent Markets/Piecewise Uniform
+min_utility,single_minded,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+min_utility,polarized,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+min_utility,majority_minority,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+min_utility,mixed,Independent Markets/Piecewise Uniform
+p10_utility,random,Util/UtilProp
+p10_utility,balanced,Util/UtilProp
+p10_utility,concentrated,Independent Markets/Piecewise Uniform
+p10_utility,single_minded,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+p10_utility,polarized,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+p10_utility,majority_minority,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+p10_utility,mixed,Independent Markets/Piecewise Uniform
+l1_loss,random,Util/UtilProp
+l1_loss,balanced,Util/UtilProp
+l1_loss,single_minded,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+l1_loss,polarized,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+l1_loss,majority_minority,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+l1_loss,mixed,Independent Markets/Piecewise Uniform
+avg_utility,random,Util/UtilProp
+avg_utility,balanced,Util/UtilProp
+avg_utility,single_minded,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+avg_utility,polarized,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+avg_utility,majority_minority,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+avg_utility,mixed,Independent Markets/Piecewise Uniform
+SW_ratio,random,Util/UtilProp
+SW_ratio,balanced,Util/UtilProp
+SW_ratio,single_minded,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+SW_ratio,polarized,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+SW_ratio,majority_minority,Mean Rule/Independent Markets; Mean Rule/Ladder; Mean Rule/UtilProp; Mean Rule/Piecewise Uniform; Independent Markets/Ladder; Independent Markets/UtilProp; Independent Markets/Piecewise Uniform; Ladder/UtilProp; Ladder/Piecewise Uniform; UtilProp/Piecewise Uniform
+SW_ratio,mixed,Independent Markets/Piecewise Uniform
