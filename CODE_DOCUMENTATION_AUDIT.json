@@ -1,0 +1,200 @@
+[
+  {
+    "file": "D6.py",
+    "function_count": 5,
+    "new_function_docstrings": 0,
+    "missing": [],
+    "original_sha256": "50f621aff5a6d964b0a930e42d6871b77fc9f773adeaf1fad87e7bcfd246718d",
+    "revised_sha256": "50f621aff5a6d964b0a930e42d6871b77fc9f773adeaf1fad87e7bcfd246718d",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "analysis/compute_agreement.py",
+    "function_count": 0,
+    "new_function_docstrings": 0,
+    "missing": [],
+    "original_sha256": "dada6c0e66fab36a919eef4dccbf8e7bbe12068d3a78a9d40cc834db343b8db4",
+    "revised_sha256": "3bdccd3b5c9da894429495d574d59cdd4b365a720be94a7167e1a03e5fc55ca8",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "analysis/reproduce_agreement.py",
+    "function_count": 0,
+    "new_function_docstrings": 0,
+    "missing": [],
+    "original_sha256": "5a623ed2d6629cbad031ad9688c9fb0bc0bf296d9d229d19a1f749e9d2e9c41a",
+    "revised_sha256": "e1429674ac2b86b4c8b9b6dbaf7456160b9c2eaf943ec64c996f30204647ca5b",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "analysis/reproduce_bonferroni.py",
+    "function_count": 1,
+    "new_function_docstrings": 1,
+    "missing": [],
+    "original_sha256": "e5fd60a30cd75ce5fda3b8a0f9625319949996bd782ba7d506b32fc9c6a24992",
+    "revised_sha256": "5553b2285560da79216d8af54c3453589800dd2985745a52d845f842ae44f4c6",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "analysis/reproduce_fairness_robustness.py",
+    "function_count": 4,
+    "new_function_docstrings": 4,
+    "missing": [],
+    "original_sha256": "23cc1461b586d65d3af81a18a87cb5106564df0f1406a4a288753b45615687e1",
+    "revised_sha256": "e880941db5594b832acfa58a0e458cd30243bcb903fa5ca16061b89a77162b91",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "analysis/reproduce_n_growth.py",
+    "function_count": 0,
+    "new_function_docstrings": 0,
+    "missing": [],
+    "original_sha256": "5943a07897857362f29964711025552bad9a456e4b0cd6c2c1c10f946e23eddf",
+    "revised_sha256": "5943a07897857362f29964711025552bad9a456e4b0cd6c2c1c10f946e23eddf",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "analysis/search_utilprop_m5_m6.py",
+    "function_count": 1,
+    "new_function_docstrings": 1,
+    "missing": [],
+    "original_sha256": "41ea6c120d1f248329d63502800a71f57372a607110d243b3a336f49b87dbee0",
+    "revised_sha256": "3216eabe622d1379333b57ca4fa123db28e3a1fbcea21e27925e8762efec6c7e",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "hill_climbing/original_code/full_search.py",
+    "function_count": 6,
+    "new_function_docstrings": 6,
+    "missing": [],
+    "original_sha256": "765ad625b6aca5b95dcd4619cbb43bdd5a7a560fe54a25d77eb68da338e19d52",
+    "revised_sha256": "9f70531f8d7c8a30ac36c91aaa2d5cbf315c1a76c8935c9df7181f9a0dcd87a6",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "hill_climbing/original_code/hill_start.py",
+    "function_count": 8,
+    "new_function_docstrings": 8,
+    "missing": [],
+    "original_sha256": "60b99a7e8156bd5c3b0fec2137efc6ed17aefa5e4e10ce5556ccd8be7a4615ea",
+    "revised_sha256": "0d76bd75690fcea18e4e014c681a1203ba6c82c40ffcfc0656cc889f8543717b",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "hill_climbing/original_code/refine.py",
+    "function_count": 0,
+    "new_function_docstrings": 0,
+    "missing": [],
+    "original_sha256": "b2dd413142bfb334ecdf9da6b612a7d36a17d29f889f626ba3d434b84a3030ee",
+    "revised_sha256": "a2a9b50346b55d208f605c3cb8f0a8c6fef928b1bffda826a4b7cbeca74fc64c",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "hill_climbing/reproduce_figures.py",
+    "function_count": 0,
+    "new_function_docstrings": 0,
+    "missing": [],
+    "original_sha256": "c766b66845caf116a736367edb1d429d25149a28cda2e9a63a1b42ef8857ab5f",
+    "revised_sha256": "c766b66845caf116a736367edb1d429d25149a28cda2e9a63a1b42ef8857ab5f",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "hill_climbing/verify_archive.py",
+    "function_count": 1,
+    "new_function_docstrings": 1,
+    "missing": [],
+    "original_sha256": "450164f5b7d6b95efeb46b5da5a153c64c158041b3271b264753c1cbc80a39f4",
+    "revised_sha256": "74b98a9977c7b6634b33bf1cf36e1ab07b070be3e4d7f404c124ad3f4b6a39a5",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "pb_app.py",
+    "function_count": 15,
+    "new_function_docstrings": 13,
+    "missing": [],
+    "original_sha256": "d5b3ca0b4870a888ded7e9dca034abe55c38393a6791ea4693bfd563e0e617b3",
+    "revised_sha256": "1c9ae2dc34ed35db6c7bc9b959a7673fa76468b4e7699202b316297aa2bc2e21",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "pb_core.py",
+    "function_count": 21,
+    "new_function_docstrings": 0,
+    "missing": [],
+    "original_sha256": "9cfbe8c764eb37dc50bb97dcb067dad3d544137d16acf915cfb937cbaf475678",
+    "revised_sha256": "8873f68abf0ef07626470e8f96c17e124aa373fb1d3a65850af46ea5abb45af6",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "pb_cultures.py",
+    "function_count": 4,
+    "new_function_docstrings": 2,
+    "missing": [],
+    "original_sha256": "6af3ab3761ce21ab4221f01ca5bc628c7c3551c2959d9916979fe258d8fad32c",
+    "revised_sha256": "102ee255193f984a94852adc5a8228b31320eda016082fe3458dfbb31171e057",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "pb_excel.py",
+    "function_count": 14,
+    "new_function_docstrings": 14,
+    "missing": [],
+    "original_sha256": "db1fb6b56d229ecacc33aa499b75aa37ed6e47e009085670e99102b674a86cc0",
+    "revised_sha256": "7b02dfb36a5c5548f54a4a8a68f575a4c3a7568d2da96747fbba462987336715",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "pb_io.py",
+    "function_count": 7,
+    "new_function_docstrings": 6,
+    "missing": [],
+    "original_sha256": "ee35b76981df6f8bdebe61dd8e5d56cea8b23da99dd2b972d19328f7b284eb16",
+    "revised_sha256": "f2c6dcd30b8a6330ce709991be47656538bb00084b6a704ca9822d834b28b9cd",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "pb_plots.py",
+    "function_count": 7,
+    "new_function_docstrings": 3,
+    "missing": [],
+    "original_sha256": "592c2f460553b4f4b48724b5430302e35a2c09978e69c4be17c6397d48880bd0",
+    "revised_sha256": "5505842f5e971de572a7fe6dad49da06148bd9bb3f1e3ef67bd48f79cb9d05ef",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "rebuild_excel_reports.py",
+    "function_count": 1,
+    "new_function_docstrings": 1,
+    "missing": [],
+    "original_sha256": "5ae77bed5dd89048a2eb826b53eee2f1952c81445e411890f58565fdb155fc59",
+    "revised_sha256": "d782669095a434e53944877ffea5281d6161c5c22c17171685899a5838e19950",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "test_d2.py",
+    "function_count": 1,
+    "new_function_docstrings": 1,
+    "missing": [],
+    "original_sha256": "b46295fc06bb295d795ff8666737bd5166eef09a7afb15217f821afdcf0e3ffd",
+    "revised_sha256": "3b2e762577bb2a65ea3188b6714f51d2991ac333b124972bcdd1b86bef407af1",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "test_d7.py",
+    "function_count": 11,
+    "new_function_docstrings": 7,
+    "missing": [],
+    "original_sha256": "77597853dce943e66eb8c77a09ff127c02d7a5612f8a8a2131fa2c3692a13906",
+    "revised_sha256": "853fcf690d711b842d8ad208204627f61512cf52c4fea569e79f6ef2aa7665d4",
+    "executable_ast_identical": true
+  },
+  {
+    "file": "verify_im_rational_witness.py",
+    "function_count": 1,
+    "new_function_docstrings": 1,
+    "missing": [],
+    "original_sha256": "f7e3518f903f7a0c601c51a951235abac8cc402e80f571814924dc205b2d7cf4",
+    "revised_sha256": "7916d1f931edabbae80faa7dd85e7cc93659498460eb0d6fe3f70786429a0274",
+    "executable_ast_identical": true
+  }
+]
